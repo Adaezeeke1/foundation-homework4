@@ -79,5 +79,4 @@ def shop():
         raise MaximumPurchaseAttemptsExceededError
 
 
-# Run the shop
 shop()
