@@ -51,4 +51,6 @@ Git uses the global configuration for authorship, which you can set using the fo
 
 > *git config --global user.email "your@email.com"*
 
+* An edit to help with pull request
+
 
